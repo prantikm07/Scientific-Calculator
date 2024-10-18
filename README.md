@@ -23,7 +23,7 @@ The Advanced Scientific Calculator is a Python-based console application that pe
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone https://github.com/prantikm07/Scientific-Calculator.git
+   git clone https://github.com/prantikm07/Scientific-Calculator-CLI.git
    ```
 
 2. **Run the calculator**:
